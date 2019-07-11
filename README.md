@@ -23,7 +23,6 @@
 - 
 
 ### January 8th, 2020
-- *note date change from January 1st!*
 - 
 - 
 
