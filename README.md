@@ -1,6 +1,6 @@
 # CCHMC R Users Group
 
-> The purpose of this group is to facilitate interaction among anyone using R within the Academic Health Center.  Meetings are held on the **first Wednesday of every month from 12p - 1p in T10.XXX**.  Each meeting will contain one or two informal talks each lasting about 20 minutes.
+> The purpose of this group is to facilitate interaction among anyone using R within the Academic Health Center.  Meetings are held on the **first Wednesday of every month from 12p - 1p in T11.332**.  Each meeting will contain one or two informal talks each lasting about 20 minutes.
 
 ### September 4th, 2019
 - **Containers for R: Reproducibility and Mobility of Compute**
