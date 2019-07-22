@@ -14,7 +14,8 @@
 - 
 
 ### November 6th, 2019
-- 
+- **Bayesian Modeling in R**
+  - presenter: Nobel Bhuiyan
 - 
 
 ### December 4th, 2019
