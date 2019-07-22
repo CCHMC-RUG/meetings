@@ -9,7 +9,8 @@
   - presenter: Erika Rasnick
   
 ### October 2nd, 2019
-- 
+- **R Markdown and Automated Reporting**
+  - presenter: Chris Wolfe
 - 
 
 ### November 6th, 2019
