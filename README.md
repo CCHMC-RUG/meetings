@@ -5,10 +5,8 @@
 ### September 4th, 2019
 - **Containers for R: Reproducibility and Mobility of Compute**
   - presenter: [Cole Brokamp](https://twitter.com/colebrokamp)
-  - link to slides
 - **Mapping and Geospatial Data in R**
   - presenter: Erika Rasnick
-  - link to slides
   
 ### October 2nd, 2019
 - 
