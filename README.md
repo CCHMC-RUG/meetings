@@ -12,7 +12,7 @@
 - **R Markdown and Automated Reporting**
   - presenter: Chris Wolfe
 - **Introduction to R Shiny**
-  - presenter: PJ VanCamp
+  - presenter: PJ Van Camp
 
 ### November 6th, 2019
 - **Bayesian Modeling in R**
