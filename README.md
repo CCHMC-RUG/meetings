@@ -16,7 +16,8 @@
 ### November 6th, 2019
 - **Bayesian Modeling in R**
   - presenter: Nobel Bhuiyan
-- 
+- **An Introduction to the Harrell“verse”: Predictive Modeling using the `Hmisc` and `rms` Packages**
+  - presenter: Nick Ollberding
 
 ### December 4th, 2019
 - 
