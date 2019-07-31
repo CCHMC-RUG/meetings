@@ -4,6 +4,7 @@
 
 ### August 30th, 2019
 - **CCHMC RUG - Crash Course in R**
+  - 10:00 AM - noon, Rm T10.134
   - presenter: Chris Wolfe
 
 ### September 4th, 2019
