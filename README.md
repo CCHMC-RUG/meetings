@@ -1,6 +1,6 @@
 # CCHMC R Users Group
 
-> The purpose of this group is to facilitate interaction among anyone using R within the Academic Health Center.  Meetings are held on the **first Wednesday of every month from 12p - 1p in T11.332**.  Each meeting will contain one or two informal talks each lasting about 20 minutes.
+> The purpose of this group is to facilitate interaction among anyone using R within the Academic Health Center.  Meetings are held on the **first Wednesday of every month from 12p - 1p**.  Each meeting will contain one or two informal talks each lasting about 20 minutes.
 
 ### August 30th, 2019
 - **CCHMC RUG - Crash Course in R**
@@ -18,16 +18,22 @@
   - presenter: Chris Wolfe
 - **Introduction to R Shiny**
   - presenter: PJ Van Camp
+  
+- **Rm. T3.121**
 
 ### November 6th, 2019
 - **Bayesian Modeling in R**
   - presenter: Nobel Bhuiyan
 - **An Introduction to the Harrell“verse”: Predictive Modeling using the `Hmisc` and `rms` Packages**
   - presenter: Nick Ollberding
+  
+  - **Rm. T11.338**
 
 ### December 4th, 2019
 - 
 - 
+
+- **Rm. T12.336**
 
 ### January 8th, 2020
 - 
