@@ -14,26 +14,21 @@
   - presenter: Erika Rasnick
   
 ### October 2nd, 2019
-- **R Markdown and Automated Reporting**
-  - presenter: Chris Wolfe
 - **Introduction to R Shiny**
   - presenter: PJ Van Camp
-  
-- **Rm. T3.121**
+- **Room T3.121**
 
 ### November 6th, 2019
 - **Bayesian Modeling in R**
   - presenter: Nobel Bhuiyan
 - **An Introduction to the Harrell“verse”: Predictive Modeling using the `Hmisc` and `rms` Packages**
   - presenter: Nick Ollberding
-  
-  - **Rm. T11.338**
+- **Room T11.338**
 
 ### December 4th, 2019
-- 
-- 
-
-- **Rm. T12.336**
+- **R Markdown and Automated Reporting**
+  - presenter: Chris Wolfe
+- **Room T12.336**
 
 ### January 8th, 2020
 - 
