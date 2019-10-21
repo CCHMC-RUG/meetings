@@ -19,20 +19,19 @@
 - **Room T3.121**
 
 ### November 6th, 2019
-- **Bayesian Modeling in R**
-  - presenter: Nobel Bhuiyan
 - **An Introduction to the Harrell“verse”: Predictive Modeling using the `Hmisc` and `rms` Packages**
   - presenter: Nick Ollberding
 - **Room T11.338**
 
 ### December 4th, 2019
-- **R Markdown and Automated Reporting**
-  - presenter: Chris Wolfe
+- **Creating Custom R Markdown Templates**
+  - presenter: Zana Percy
 - **Room T12.336**
 
 ### January 8th, 2020
-- 
-- 
+- **Parameterized Reporting and Reproducible Research**
+  - presenter: Chris Wolfe
+- **Room T12.336**
 
 ### February 5th, 2020
 - 
