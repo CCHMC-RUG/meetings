@@ -31,7 +31,7 @@
 ### January 8th, 2020
 - **Parameterized Reporting and Reproducible Research**
   - presenter: Chris Wolfe
-- **Room T12.336**
+- **Room T11.130**
 
 ### February 5th, 2020
 - 
