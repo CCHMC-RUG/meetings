@@ -29,7 +29,7 @@
 - **Room T12.336**
 
 ### January 8th, 2020
-- **Parameterized Reporting and Reproducible Research**
+- **Parametrized R Markdown Reports and REDCap API Calls**
   - presenter: Chris Wolfe
 - **Room T11.130**
 
