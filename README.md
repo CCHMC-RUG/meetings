@@ -31,7 +31,7 @@
 ### January 8th, 2020
 - **Parametrized R Markdown Reports and REDCap API Calls**
   - presenter: Chris Wolfe
-- **Room T11.130**
+- **Room T10.336**
 
 ### February 5th, 2020
 - 
