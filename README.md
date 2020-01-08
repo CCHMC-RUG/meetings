@@ -34,8 +34,9 @@
 - **Room T10.336**
 
 ### February 5th, 2020
-- 
-- 
+**Profvis — Interactive Visualizations for Profiling R Code**
+  - presenter: PJ Van Camp
+- **Room T10.134**
 
 ### March 4th, 2020
 - 
