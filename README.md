@@ -39,8 +39,9 @@
 - **Room T10.134**
 
 ### March 4th, 2020
-- 
-- 
+- **Lessons from RStudio Conference 2020**
+- presenters: Erika Rasnick and Chris Wolfe
+- **Room T10.134**
 
 ### April 1st, 2020
 - 
