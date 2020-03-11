@@ -44,8 +44,9 @@
 - **Room T10.134**
 
 ### April 1st, 2020
-- 
-- 
+- **`dplyr` v1.0.0**
+- presenter: Cole Brokamp
+- **Room T10.134**
 
 ### May 6th, 2020
 - 
