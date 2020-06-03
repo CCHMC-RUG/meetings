@@ -47,8 +47,13 @@
 - **CANCELED**
 
 ### May 6th, 2020
+- **CANCELED**
+
+### June 3rd, 2020
 - **`dplyr` v1.0.0**
 - presenter: Cole Brokamp
-- **Room T10.134**
+- **online meeting only**
+
+### Summer Break Until September
 
 
